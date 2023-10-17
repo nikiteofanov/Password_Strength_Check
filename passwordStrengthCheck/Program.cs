@@ -1,5 +1,3 @@
-﻿using System;
-using static System.Formats.Asn1.AsnWriter;
 
 class PasswordStrengthChecker
 {
